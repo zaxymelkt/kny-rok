@@ -50,13 +50,87 @@ They have an instinctual knowledge of [[Total Concentration Breathing]].
 **Duration**
 - The First Stage of the Manifested Demon Slayer Mark can be sustained for 1 minute total. 
 
+**Manifested Buffs**
+- +5 [[Statistics#Agility|AGL]].
+- +5 [[Statistics#Focus|FOC]].
+- +4 [[Statistics#Strength|STR]].
+- +5 [[Statistics#Durability|DUR]].
+- +50 Max [[Statistics#Stamina|STAM]].
+
 ## Stage 2
+
+**Cost**
+- The First Stage of the Manifested Demon Slayer Mark drains [ 8 STAM ] per 3 seconds of use.
+
+**Duration**
+- The First Stage of the Manifested Demon Slayer Mark can be sustained for 1 minute total. 
+
+**Manifested Buffs**
+- +8 [[Statistics#Agility|AGL]].
+- +8 [[Statistics#Focus|FOC]].
+- +7 [[Statistics#Strength|STR]].
+- +8 [[Statistics#Durability|DUR]].
+- +80 Max [[Statistics#Stamina|STAM]].
 
 ## Stage 3
 
+
+**Cost**
+- The First Stage of the Manifested Demon Slayer Mark drains [ 8 STAM ] per 3 seconds of use.
+
+**Duration**
+- The First Stage of the Manifested Demon Slayer Mark can be sustained for 1 minute total. 
+
+**Manifested Buffs**
+- +10 [[Statistics#Agility|AGL]].
+- +10 [[Statistics#Focus|FOC]].
+- +9 [[Statistics#Strength|STR]].
+- +10 [[Statistics#Durability|DUR]].
+- +100 Max [[Statistics#Stamina|STAM]].
+
 ## Stage 4
+
+
+**Cost**
+- The First Stage of the Manifested Demon Slayer Mark drains [ 8 STAM ] per 3 seconds of use.
+
+**Duration**
+- The First Stage of the Manifested Demon Slayer Mark can be sustained for 1 minute total. 
+
+**Manifested Buffs**
+- +12 [[Statistics#Agility|AGL]].
+- +12 [[Statistics#Focus|FOC]].
+- +10 [[Statistics#Strength|STR]].
+- +12 [[Statistics#Durability|DUR]].
+- +125 Max [[Statistics#Stamina|STAM]].
 
 ## Stage 5
 
+
+**Cost**
+- The First Stage of the Manifested Demon Slayer Mark drains [ 8 STAM ] per 3 seconds of use.
+
+**Duration**
+- The First Stage of the Manifested Demon Slayer Mark can be sustained for 1 minute total. 
+
+**Manifested Buffs**
+- +12 [[Statistics#Agility|AGL]].
+- +15 [[Statistics#Focus|FOC]].
+- +12 [[Statistics#Strength|STR]].
+- +15 [[Statistics#Durability|DUR]].
+- +125 Max [[Statistics#Stamina|STAM]].
+
 ## Stage 6
 
+**Cost**
+- The First Stage of the Manifested Demon Slayer Mark drains [ 8 STAM ] per 3 seconds of use.
+
+**Duration**
+- The First Stage of the Manifested Demon Slayer Mark can be sustained for 1 minute total. 
+
+**Manifested Buffs**
+- +12 [[Statistics#Agility|AGL]].
+- +18 [[Statistics#Focus|FOC]].
+- +15 [[Statistics#Strength|STR]].
+- +15 [[Statistics#Durability|DUR]].
+- +150 Max [[Statistics#Stamina|STAM]].
