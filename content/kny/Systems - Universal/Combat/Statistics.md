@@ -94,9 +94,9 @@ Strength (STR) symbolises the raw physical might of an individual, embodying the
 | 60 Points | +30      | +12      | +30      |
 
 > [!abstract] Substats
-> **Grip Strength** (Grip STR) > _A subcategory of STR, dictating the value of strength when gripping._
+> **Grip Strength** (Grip STR) > _A subcategory of STR, dictating the value of strength when gripping. This is often referred to as Block Strength (Block STR)_
 >
-> **Push Strength** (Push STR) > _A subcategory of STR, dictating the value of strength when pushing against an individual or object. This is often referred to as Throw Speed (Throw SPD)_
+> **Push Strength** (Push STR) > _A subcategory of STR, dictating the value of strength when pushing or blocking against an individual or object. This is often referred to as Throw Speed (Throw SPD)_
 >
 > **Pull Strength** (Pull STR) > _A subcategory of STR, dictating the value of strength when pulling against an individual or object._
 
