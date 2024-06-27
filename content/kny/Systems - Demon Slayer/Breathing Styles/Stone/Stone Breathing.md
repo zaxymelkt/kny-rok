@@ -11,13 +11,13 @@ Stone Breathing is a Breathing Style that mimics earth and stone and replicates 
 Although it possesses fewer fundamental techniques than other breathing styles, Stone Breathing maintains its foothold as one of the most deadly and difficult breaths.
 # Mastery
 
-| Form                                            | Unlock Req. |
-| ----------------------------------------------- | ----------- |
-| [[#First Form: Serpentinite Bipolar]]           | 15          |
-| [[#Second Form: Upper Smash]]                   | 20          |
-| [[#Third Form: Stone Skin]]                     | 25          |
-| [[#Fourth Form: Volcanic Rock, Rapid Conquest]] | 30          |
-| [[#Fifth Form: Arcs of Justice]]                | 35          |
+| Form                                                                                        | Unlock Req. |
+| ------------------------------------------------------------------------------------------- | ----------- |
+| [[#First Form: Serpentinite Bipolar\|First Form: Serpentinite Bipolar]]                     | 15          |
+| [[#Second Form: Upper Smash\|Second Form: Upper Smash]]                                     | 20          |
+| [[#Third Form: Stone Skin\|Third Form: Stone Skin]]                                         | 25          |
+| [[#Fourth Form: Volcanic Rock, Rapid Conquest\|Fourth Form: Volcanic Rock, Rapid Conquest]] | 30          |
+| [[#Fifth Form: Arcs of Justice\|Fifth Form: Arcs of Justice]]                               | 35          |
  > [!tip] Form Perfection
 > By reaching (30) FOC increase the amount of side targets by 2.
 > 
@@ -35,7 +35,7 @@ In this form the user hurls both the flail and axe towards their designated targ
 
 ---
 
-![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/70/Gale_Sudden_Gusts.png/revision/latest/scale-to-width-down/700?cb=20200406035501)
+![[stone_first-form.png]]
 
 ---
 ### First Form - Action Time
@@ -62,7 +62,7 @@ In this form, the user launches both their axe and spiked flail towards the targ
 
 ---
 
-![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/50/Upper_Smash.png/revision/latest/scale-to-width-down/500?cb=20200406204905)
+![[stone_second-form.png]]
 
 ---
 ### Second Form - Action Time
@@ -90,7 +90,7 @@ In this form, the user employs their axe to execute a series of rapid slashes. T
 
 ---
 
-![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/2d/Stone_Skin.png/revision/latest/scale-to-width-down/650?cb=20200406205026)
+![[stone_third-form.png]]]
 
 ---
 ### Stone Skin Action Time
@@ -119,7 +119,7 @@ This form sees the user manipulating both the flail and axe at the ends of the c
 
 ---
 
-![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/30/Volcanic_Rock_Rapid_Conquest.png/revision/latest/scale-to-width-down/1000?cb=20200406205128)
+![[stone_fourth-form.png]]
 
 ---
 ### Volcanic Rock, Rapid Conquest Action Time
@@ -147,7 +147,7 @@ In this form, the user executes a powerful barrage with their flail and axe. The
 
 ---
 
-![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/eb/Arcs_of_Justice.png/revision/latest/scale-to-width-down/600?cb=20200406205200)
+![[stone_fifth-form.png]]
 
 ---
 ### Arcs of Justice Action Time
