@@ -90,7 +90,7 @@ In this form, the user employs their axe to execute a series of rapid slashes. T
 
 ---
 
-![[stone_third-form.png]]]
+![[stone_third-form.png]]
 
 ---
 ### Stone Skin Action Time
@@ -99,8 +99,7 @@ Preform up to 4 [[Combat System#Block|Block]] or [[Combat System#Attack|Attack]]
 Time: 4s
 
  > [!tip] Form Perfection
-> By reaching (40) FOC increase the amount of [[Combat System#Block|Block]] actions to 6; increase the amount of [[Combat System#Attack|Attack]] actions to 5.
-> 
+ > By reaching (40) FOC increase the amount of Block actions to 6; increase the amount of Attack actions to 5.
 
 ### Third Form - Statistics
 #### **Strength**
