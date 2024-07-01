@@ -23,21 +23,55 @@ A Breathing Style crafted by [[Tsukuyomi]], unique to them. Throughout history, 
 ## First Form: Dark Moon, Evening Palace
 The user quickly draws their sword and slashes swiftly in a singular horizontal motion in a crescent shape. This technique is extremely reminiscent of Iaijutsu. Through the visualisation of crescent moons, the technique deals two additional cuts in the surrounding area.
 
-**Mastered Buffs**
-- Preformed at +7 Swing SPD.
+---
+
+![[moon_first-form.png]]
+
+---
+### First Form - Action Time
+Preform 1 [[Combat System#Attack|Attack]] action using a blade towards the (target). Preform 2 "phantom" cutting [[Combat System#Attack|Attack]] action in the same area.
+
+Time: 2s
+
+ > [!tip] Form Perfection
+> By reaching (30) FOC preform 1 additional phantom attack.
+> 
+### First Form - Statistics
+
+#### **Strength**
 - Preformed at +5 ATK STR.
-
-**Cost**
-- 8 STAM
+#### **Agility**
+- Preformed at +7 Swing SPD.
+#### **Cost**
+- 12 STAM
+---
 ## Second Form: Pearl Flower Moongazing
-The user performs three crescent-shaped slashes that defend them from incoming attacks. Through the visualisation of crescent moons, the technique deal releases three crescent moons three metres from each slash.
+The user performs three crescent-shaped slashes that defend them from incoming attacks. Through the visualisation of crescent moons, the technique releases three crescent moons three metres from each slash.
 
-**Mastered Buffs**
-- Preformed at +6 Swing SPD
-- Preformed at +4 STR
+---
+
+![[moon_second-form.png]]
+
+---
+
+### Second Form - Action Time
+Preform 3 [[Combat System#Attack|Attack]] or [[Combat System#Block|Block]] actions using a blade towards the (target). Preform 2 "phantom" cutting [[Combat System#Block|Block]] actions in the same area.
+
+Time: 3.5s
+
+ > [!tip] Form Perfection
+> By reaching (35) FOC reduce action time by 0.5s.
+
+### First Form - Statistics
+
+#### **Strength**
+- Preformed at +4 ATK STR.
 - Projectiles are launched at Push SPD.
+  
+#### **Agility**
+- Preformed at +6 Swing SPD.
 
-**Cost**
+#### **Cost**
 - 10 STAM
 ## Third Form: **Loathsome Moon, Chains**
 The user swings their sword rapidly in two gigantic crescent slashes. Through the visualisation of crescent moons, from each crescent slash, six smaller crescent-moons spread, causing huge destruction in a small area.
