@@ -133,11 +133,11 @@ Time: 6s
 
 ### Fourth Form - Statistics
 #### **Strength**
-- Preformed at +x ATK STR
+- Preformed at +3 ATK STR
 #### **Agility**
-- Preformed at +x Push STR
+- Preformed at +1 Push STR
 #### Cost
-- x STAM
+- 25 STAM
 
 ---
 ## Fifth Form: Arcs of Justice
@@ -150,19 +150,23 @@ In this form, the user executes a powerful barrage with their flail and axe. The
 
 ---
 ### Arcs of Justice Action Time
-Preform up to 3 [[Combat System#Block|Block]] or [[Combat System#Attack]] actions to deflect projectiles or attack targets within 5 metres.
+Preform a single [[Feint]] action followed with 3 [[Combat System#Attack|Attack]] actions. Preform a final [[Combat System#Attack|Attack]] by hitting the back of the axe with the flail.
+
+Action Time: 6s
 
  > [!tip] Form Perfection
-> By reaching (50) FOC shorten the action time by 0.5s.
+> By reaching (50) FOC increase ATK STR by +2 for the final strike.
 > 
 
 ### Fourth Form - Statistics
 #### **Strength**
-- Preformed at +x ATK STR
+- Preformed at +4 ATK STR.
+- Final Strike preformed at +6 ATK STR.
 #### **Agility**
-- Preformed at +x Push STR
+- Preformed at +2 Push STR.
+- Final Strike preformed at +4 Push STR.
 #### Cost
-- x STAM
+- 25 STAM
 	  
 ---
 
