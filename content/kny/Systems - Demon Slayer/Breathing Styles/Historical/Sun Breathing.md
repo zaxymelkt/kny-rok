@@ -71,13 +71,20 @@ The user performs a singular downwards vertical slash in an arcing motion.
 
 ---
 
-**Buffs**
-- Preformed at +5 Swing SPD
-- Preformed at +7 ATK STR
+### First Form - Action Time
 
-**Cost**
-- Unmastered Cost: 20 STAM
-- Mastered Cost: 10 STAM
+
+> [!tip] Form Perfection
+>
+### First Form - Statistics
+
+#### Strength
+- Preformed at +7 ATK STR
+#### Agility
+- Preformed at +5 Swing SPD
+#### Cost
+- Unmastered: 20 STAM
+- Mastered: 10 STAM
 
 ### Second Form: Clear Blue Sky
 
@@ -88,15 +95,20 @@ The user spins and twists their upper body in a circular motion, releasing a 360
 ![[public/images/Sun-Breathing/sun_second-form.png]]
 
 ---
+### Second Form - Action Time
 
-**Buffs**
+> [!tip] Form Perfection
+>
+### Second Form - Statistics
+
+#### Strength
+- Preformed at +7 ATK STR
+#### Agility
 - Preformed at +7 Movement SPD
 - Preformed at +7 Swing SPD
-- Preformed at +7 ATK STR
-
-**Cost**
-- Unmastered Cost: 20 STAM
-- Mastered Cost: 10 STAM
+#### Cost
+- Unmastered: 20 STAM
+- Mastered: 10 STAM
 
 ### Third Form: Raging Sun
 
@@ -107,14 +119,20 @@ The user unleashes two consecutive horizontal arcing slashes around themselves t
 ![[public/images/Sun-Breathing/sun_third-form.png]]
 
 ---
+### Third Form - Action Time
 
-**Buffs**
-- Preformed at +6 Swing SPD
+
+> [!tip] Form Perfection
+>
+### Third Form - Statistics
+
+#### Strength
 - Preformed at +8 ATK STR
-
-**Cost**
-- Unmastered Cost: 30 STAM
-- Mastered Cost: 15 STAM
+#### Agility
+- Preformed at +6 Swing SPD
+#### Cost
+- Unmastered: 30 STAM
+- Mastered: 15 STAM
 ### Fourth Form: Burning Bones, Summer Sun
 
 The user performs a singular slash utilising a spiraling motion which extends in front of themselves to defend from imminent frontal attacks.
@@ -124,14 +142,20 @@ The user performs a singular slash utilising a spiraling motion which extends in
 ![[content/images/Sun Breathing/sun_fourth-form.png]]
 
 ---
+### Fourth Form - Action Time
 
-**Buffs**
-- Preformed at +6 Block SPD
+
+> [!tip] Form Perfection
+>
+### Fourth Form - Statistics
+
+#### Strength
 - Preformed at +12 Block STR
-
-**Cost**
-- Unmastered Cost: 30 STAM
-- Mastered Cost: 15 STAM
+#### Agility
+- Preformed at +6 Block SPD
+#### Cost
+- Unmastered: 30 STAM
+- Mastered: 15 STAM
 ### Fifth Form: Setting Sun Transformation
 
 The user backflips into the air before performing a singular horizontal slash which aims to decapitate the target.
@@ -141,15 +165,20 @@ The user backflips into the air before performing a singular horizontal slash wh
 ![[public/images/Sun-Breathing/sun_fifth-form.png]]
 
 ---
+### Fifth Form - Action Time
 
-**Buffs**
+> [!tip] Form Perfection
+>
+### Fifth Form - Statistics
+
+#### Strength
+- Preformed at +8 ATK STR
+#### Agility
 - Preformed at +6 Movement SPD
 - Preformed at +7 Swing SPD
-- Preformed at +8 ATK STR
-
-**Cost**
-- Unmastered Cost: 30 STAM
-- Mastered Cost: 15 STAM
+#### Cost
+- Unmastered: 30 STAM
+- Mastered: 15 STAM
 ### Sixth Form: Solar Heat Haze
 
 The user rushes forth, now attempting to deliver a strike seemingly enveloped in a heat-haze, masking the true length and location of the blade to deliver an unexpected strike.
@@ -159,15 +188,20 @@ The user rushes forth, now attempting to deliver a strike seemingly enveloped in
 ![[content/images/Sun Breathing/sun_sixth-form.png]]
 
 ---
+### Sixth Form - Action Time
 
-**Buffs**
-- Preformed at +9 Swing SPD
+> [!tip] Form Perfection
+>
+### Sixth Form - Statistics
+
+#### Strength
 - Preformed at +6 ATK STR
+#### Agility
+- Preformed at +9 Swing SPD
 - Reduces Target's Block and Dodge SPD by 5.
-
-**Cost**
-- Unmastered Cost: 40 STAM
-- Mastered Cost: 20 STAM
+#### Cost
+- Unmastered: 40 STAM
+- Mastered: 20 STAM
 ### Seventh Form: Beneficent Radiance
 
 The user spirals into the air whilst performing a swirling slash upwards to strike the target.
@@ -177,14 +211,20 @@ The user spirals into the air whilst performing a swirling slash upwards to stri
 ![[content/images/Sun Breathing/sun_seventh-form.png]]
 
 ---
+### Seventh Form - Action Time
 
-**Buffs**
-- Preformed at +8 Swing SPD
+
+> [!tip] Form Perfection
+>
+### Seventh Form - Statistics
+
+#### Strength
 - Preformed at +7 ATK STR
-
-**Cost**
-- Unmastered Cost: 30 STAM
-- Mastered Cost: 15 STAM
+#### Agility
+- Preformed at +8 Swing SPD
+#### Cost
+- Unmastered: 30 STAM
+- Mastered: 15 STAM
 
 ### Eighth Form: Sunflower Thrust
 
@@ -195,14 +235,20 @@ The user performs a singular thrust utilising the tip of their blade to strike t
 ![[content/images/Sun Breathing/sun_eighth-form.png]]
 
 ---
+### Eighth Form - Action Time
 
-**Buffs**
-- Preformed at +10 Swing SPD
+
+> [!tip] Form Perfection
+>
+### Eighth Form - Statistics
+
+#### Strength
 - Preformed at +8 ATK STR
-
-**Cost**
-- Unmastered Cost: 25 STAM
-- Mastered Cost: 15 STAM
+#### Agility
+- Preformed at +10 Swing SPD
+#### Cost
+- Unmastered: 25 STAM
+- Mastered: 15 STAM
 ### Ninth Form: Sun Halo Dragon Head Dance
 
 The user assumes a high stance, before unleashing a number of consecutive slashes in a fluid motion in the form of a Japanese dragon made of solar flames. In total, the user can preform up to five slashing attacks.
@@ -212,15 +258,21 @@ The user assumes a high stance, before unleashing a number of consecutive slashe
 ![[content/images/Sun Breathing/sun_nineth-form.png]]
 
 ---
+### Ninth Form - Action Time
 
-**Buffs**
+
+> [!tip] Form Perfection
+>
+### Ninth Form - Statistics
+
+#### Strength
+- Preformed at +15 ATK STR
+#### Agility
 - Preformed at +9 Movement SPD
 - Preformed at +8 Swing SPD
-- Preformed at +15 ATK STR
-
-**Cost**
-- Unmastered Cost: 60 STAM
-- Mastered Cost: 30 STAM
+#### Cost
+- Unmastered: 60 STAM
+- Mastered: 30 STAM
 ### Tenth Form: Fire Wheel
 The user flips into the air behind the opponent before unleashing a singular vertical slash in a circular motion to swiftly cut the target in half.
 
@@ -229,15 +281,20 @@ The user flips into the air behind the opponent before unleashing a singular ver
 ![[content/images/Sun Breathing/sun_tenth-form.png]]
 
 ---
+### Tenth Form - Action Time
 
-**Buffs**
+> [!tip] Form Perfection
+>
+### Tenth Form - Statistics
+
+#### Strength
+- Preformed at +8 ATK STR
+#### Agility
 - Preformed at +10 Movement SPD
 - Preformed at +8 Swing SPD
-- Preformed at +8 ATK STR
-
-**Cost**
-- Unmastered Cost: 35 STAM
-- Mastered Cost: 20 STAM
+#### Cost
+- Unmastered: 35 STAM
+- Mastered: 20 STAM
 ### Eleventh Form: Fake Rainbow
 The user performs high-speed twists and rotations, creating afterimages that are primarily used for evading attacks. These afterimages are particularly effective against enemies with sharp vision.
 
@@ -246,15 +303,19 @@ The user performs high-speed twists and rotations, creating afterimages that are
 ![[content/images/Sun Breathing/sun_eleventh-form.png]]
 
 ---
+### Eleventh Form - Action Time
 
-**Buffs**
+> [!tip] Form Perfection
+>
+### Eleventh Form - Statistics
+
+#### Agility
 - Grants the user +10 Dodge SPD
 - Reduces PER of the target by -8 for 1 turn.
 	- If Dodge SPD exceeds the target's PER, they will be unable to follow the user's movement.
-
-**Cost**
-- Unmastered Cost: 45 STAM
-- Mastered Cost: 25 STAM
+#### Cost
+- Unmastered: 45 STAM
+- Mastered: 25 STAM
 ### Twelfth Form: Flame Dance
 A two-strike combo which starts with a downward vertical slash leading into a horizontal slash right after.
 
@@ -263,14 +324,21 @@ A two-strike combo which starts with a downward vertical slash leading into a ho
 ![[content/images/Sun Breathing/sun_twelveth-form.png]]
 
 ---
+### Twelfth Form - Action Time
 
-**Buffs**
-- Preformed at +8 Swing SPD (First) | +10 Swing SPD (Second)
-- Preformed at +8 ATK STR (First) | +10 ATK STR (Second)
+> [!tip] Form Perfection
+>
+### Twelfth Form - Statistics
 
-**Cost**
-- Unmastered Cost: 35 STAM
-- Mastered Cost: 20 STAM
+#### Strength
+- First Swing is preformed at +8 ATK STR.
+- Second Swing is preformed at +10 ATK STR.
+#### Agility
+- First Swing is preformed at +8 Swing SPD.
+- Second Swing is preformed at +10 Swing SPD.
+#### Cost
+- Unmastered: 35 STAM
+- Mastered: 20 STAM
 ### Kagura Ritual
 The user continuously performs all twelve forms of **Sun Breathing** in repetitive succession to increase the accuracy and agility of its movements, and attacks. Every turn, the user of the technique will preform up to five of the Sun Breathing forms.
 
@@ -279,12 +347,20 @@ The user continuously performs all twelve forms of **Sun Breathing** in repeti
 ![[content/images/Sun Breathing/sun_thirteenth-form.png]]
 
 ---
+#### Thirteenth Form - Action Time
 
-**Buffs**
-- Preform the previous forms at +2 Swing SPD and SPD every turn this form is continued.
+
+> [!tip] Form Perfection
+>
+### Thirteenth Form - Statistics
+
+#### Strength
+
 - Preformed the previous forms at +2 ATK STR every turn this form is continued.
 	- If the user fails to use a Sun Breathing form in the correct order, all momentum is lost.
-
-**Cost**
-- Unmastered Cost: 100 STAM per turn
-- Mastered Cost: 80 STAM per turn
+#### Agility
+- Preform the previous forms at +2 Swing SPD and SPD every turn this form is continued.
+	- If the user fails to use a Sun Breathing form in the correct order, all momentum is lost.
+#### Cost
+- Unmastered: 100 STAM per turn
+- Mastered: 80 STAM per turn
