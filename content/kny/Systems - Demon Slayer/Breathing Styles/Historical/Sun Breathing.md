@@ -64,6 +64,13 @@ Learning and Mastering the different forms of Sun Breathing is an impossible tas
 
 The user performs a singular downwards vertical slash in an arcing motion.
 
+---
+
+
+![[public/images/Sun-Breathing/sun_first-form.png]]
+
+---
+
 **Buffs**
 - Preformed at +5 Swing SPD
 - Preformed at +7 ATK STR
@@ -75,6 +82,12 @@ The user performs a singular downwards vertical slash in an arcing motion.
 ### Second Form: Clear Blue Sky
 
 The user spins and twists their upper body in a circular motion, releasing a 360° slash. The slash does two rounds of damage.
+
+---
+
+![[public/images/Sun-Breathing/sun_second-form.png]]
+
+---
 
 **Buffs**
 - Preformed at +7 Movement SPD
@@ -89,6 +102,12 @@ The user spins and twists their upper body in a circular motion, releasing a 360
 
 The user unleashes two consecutive horizontal arcing slashes around themselves to strike incoming attacks.
 
+---
+
+![[public/images/Sun-Breathing/sun_third-form.png]]
+
+---
+
 **Buffs**
 - Preformed at +6 Swing SPD
 - Preformed at +8 ATK STR
@@ -98,7 +117,13 @@ The user unleashes two consecutive horizontal arcing slashes around themselves t
 - Mastered Cost: 15 STAM
 ### Fourth Form: Burning Bones, Summer Sun
 
-The user performs a singular slash utilising a spiralling motion which extends in front of themselves to defend from imminent frontal attacks.
+The user performs a singular slash utilising a spiraling motion which extends in front of themselves to defend from imminent frontal attacks.
+
+---
+
+![[content/images/Sun Breathing/sun_fourth-form.png]]
+
+---
 
 **Buffs**
 - Preformed at +6 Block SPD
@@ -110,6 +135,12 @@ The user performs a singular slash utilising a spiralling motion which extends i
 ### Fifth Form: Setting Sun Transformation
 
 The user backflips into the air before performing a singular horizontal slash which aims to decapitate the target.
+
+---
+
+![[public/images/Sun-Breathing/sun_fifth-form.png]]
+
+---
 
 **Buffs**
 - Preformed at +6 Movement SPD
@@ -123,6 +154,12 @@ The user backflips into the air before performing a singular horizontal slash wh
 
 The user rushes forth, now attempting to deliver a strike seemingly enveloped in a heat-haze, masking the true length and location of the blade to deliver an unexpected strike.
 
+---
+
+![[content/images/Sun Breathing/sun_sixth-form.png]]
+
+---
+
 **Buffs**
 - Preformed at +9 Swing SPD
 - Preformed at +6 ATK STR
@@ -134,6 +171,12 @@ The user rushes forth, now attempting to deliver a strike seemingly enveloped in
 ### Seventh Form: Beneficent Radiance
 
 The user spirals into the air whilst performing a swirling slash upwards to strike the target.
+
+---
+
+![[content/images/Sun Breathing/sun_seventh-form.png]]
+
+---
 
 **Buffs**
 - Preformed at +8 Swing SPD
@@ -147,6 +190,12 @@ The user spirals into the air whilst performing a swirling slash upwards to stri
 
 The user performs a singular thrust utilising the tip of their blade to strike the target.
 
+---
+
+![[content/images/Sun Breathing/sun_eighth-form.png]]
+
+---
+
 **Buffs**
 - Preformed at +10 Swing SPD
 - Preformed at +8 ATK STR
@@ -157,6 +206,12 @@ The user performs a singular thrust utilising the tip of their blade to strike t
 ### Ninth Form: Sun Halo Dragon Head Dance
 
 The user assumes a high stance, before unleashing a number of consecutive slashes in a fluid motion in the form of a Japanese dragon made of solar flames. In total, the user can preform up to five slashing attacks.
+
+---
+
+![[content/images/Sun Breathing/sun_nineth-form.png]]
+
+---
 
 **Buffs**
 - Preformed at +9 Movement SPD
@@ -169,6 +224,12 @@ The user assumes a high stance, before unleashing a number of consecutive slashe
 ### Tenth Form: Fire Wheel
 The user flips into the air behind the opponent before unleashing a singular vertical slash in a circular motion to swiftly cut the target in half.
 
+---
+
+![[content/images/Sun Breathing/sun_tenth-form.png]]
+
+---
+
 **Buffs**
 - Preformed at +10 Movement SPD
 - Preformed at +8 Swing SPD
@@ -179,6 +240,12 @@ The user flips into the air behind the opponent before unleashing a singular ver
 - Mastered Cost: 20 STAM
 ### Eleventh Form: Fake Rainbow
 The user performs high-speed twists and rotations, creating afterimages that are primarily used for evading attacks. These afterimages are particularly effective against enemies with sharp vision.
+
+---
+
+![[content/images/Sun Breathing/sun_eleventh-form.png]]
+
+---
 
 **Buffs**
 - Grants the user +10 Dodge SPD
@@ -191,6 +258,12 @@ The user performs high-speed twists and rotations, creating afterimages that are
 ### Twelfth Form: Flame Dance
 A two-strike combo which starts with a downward vertical slash leading into a horizontal slash right after.
 
+---
+
+![[content/images/Sun Breathing/sun_twelveth-form.png]]
+
+---
+
 **Buffs**
 - Preformed at +8 Swing SPD (First) | +10 Swing SPD (Second)
 - Preformed at +8 ATK STR (First) | +10 ATK STR (Second)
@@ -200,6 +273,12 @@ A two-strike combo which starts with a downward vertical slash leading into a ho
 - Mastered Cost: 20 STAM
 ### Kagura Ritual
 The user continuously performs all twelve forms of **Sun Breathing** in repetitive succession to increase the accuracy and agility of its movements, and attacks. Every turn, the user of the technique will preform up to five of the Sun Breathing forms.
+
+---
+
+![[content/images/Sun Breathing/sun_thirteenth-form.png]]
+
+---
 
 **Buffs**
 - Preform the previous forms at +2 Swing SPD and SPD every turn this form is continued.
